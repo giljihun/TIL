@@ -1,6 +1,6 @@
 # 🔎 TIL
 
-Today I learned (feat. gil)
+Today I learned (feat. Gil)
 
 ## Development Process
 
