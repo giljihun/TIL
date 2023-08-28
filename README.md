@@ -1,6 +1,7 @@
 # 🔎 TIL
 
 Today I learned (feat. Gil)
+제발 매일 올리자!
 
 ## Development Process
 
