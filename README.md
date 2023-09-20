@@ -22,7 +22,8 @@ Today I learned (feat. Gil)
 
 ## Network Programming
 
-> 나중에 목차 제대로 정리
+- [RFC(Request for Comments)](./Network%20Programming/RFC.md)
+
 ### 수업&과제 내용 정리
 - [2주차](./Network%20Programming/2주차.md)
 - [3주차](./Network%20Programming/3주차.md)
