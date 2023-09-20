@@ -23,6 +23,7 @@ Today I learned (feat. Gil)
 ## Network Programming
 
 - [RFC(Request for Comments)](./Network%20Programming/RFC.md)
+- [TCP vs UDP](./Network%20Programming/TCP%20vs%20UDP.md)
 
 ### 수업&과제 내용 정리
 - [2주차](./Network%20Programming/2주차.md)
