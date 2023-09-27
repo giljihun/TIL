@@ -1,7 +1,6 @@
 # 🔎 TIL
 
 Today I learned (feat. Gil)
-제발 매일 올리자!
 
 > ### [Markdown 문법 정리](./markdownGRAMMAR.md)
 
