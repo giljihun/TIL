@@ -1,10 +1,11 @@
 # 🔎 TIL
 
 Today I learned (feat. Gil)
+제발 매일 올리자!
 
-> ### [Markdown 문법 정리](./markdownGRAMMAR.md)
+### <img src="image-1.png" width="8%" height="10%"> [Markdown 문법 정리](./markdownGRAMMAR.md)
 
-## SwiftUI
+## <img src="image-4.png" width="4%" height="5%"> SwiftUI
 
 - [3D 애니메이션](./SwiftUI/[SwiftUI]%203D%20애니메이션.md)
 
