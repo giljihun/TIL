@@ -1,7 +1,7 @@
 # 🔎 TIL
 
 Today I learned (feat. Gil)
-제발 매일 올리자!
+제발 매일 올리자!  
 
 ### <img src="image-1.png" width="8%" height="10%"> [Markdown 문법 정리](./markdownGRAMMAR.md)
 
