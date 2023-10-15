@@ -11,7 +11,9 @@ Today I learned (feat. Gil)
 - [TDD](./DevelopmentProcess/TDD.md)
 
 ## Data Structures & Algorithm
+- [배열](./Data%20Structures%20&%20Algorithm/배열.md)
 - [점근적 표기법](./Data%20Structures%20&%20Algorithm/점근적%20표기법.md)
+- [SHA-256](./Data%20Structures%20&%20Algorithm/SHA-256.md)
 
 ## iOS
 
@@ -31,6 +33,8 @@ Today I learned (feat. Gil)
 - [2주차](./Network%20Programming/2주차.md)
 - [3주차](./Network%20Programming/3주차.md)
 - [4주차](./Network%20Programming/4주차.md)
+- [5주차](./Network%20Programming/5주차.md)
+- [6주차](./Network%20Programming/6주차.md)
 
 ## Mobility SW/AI
 
