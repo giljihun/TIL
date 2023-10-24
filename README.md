@@ -29,13 +29,6 @@ Today I learned (feat. Gil)
 - [TCP vs UDP](./Network%20Programming/TCP%20vs%20UDP.md)
 - [DHCP](./Network%20Programming/DHCP.md)
 
-### 수업&과제 내용 정리
-- [2주차](./Network%20Programming/2주차.md)
-- [3주차](./Network%20Programming/3주차.md)
-- [4주차](./Network%20Programming/4주차.md)
-- [5주차](./Network%20Programming/5주차.md)
-- [6주차](./Network%20Programming/6주차.md)
-
 ## Mobility SW/AI
 
 - [Vehicle Communications and Networks](./Mobility%20SW%20and%20AI/Vehicle%20Communications%20and%20Networks)
