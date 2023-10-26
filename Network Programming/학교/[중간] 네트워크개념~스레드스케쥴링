@@ -102,3 +102,43 @@ Datalink Layer / Physical Layer ← 물리적인 경로(WiFi, 이더넷, LTE 등
 2) 이때는! '포트 번호'를 사용하여 어떤 디바이스로 보내야 하는지 결정!! 이 말은 즉, 한 공용 IP 주소 산하에 서로 다른 포트 번호를 사용해서 여러 서비스가 운영되고 통신된다는 것.
 
 - IP 주소 255.255.255.255는 브로드캐스트 주소로, 이 주소로 데이터를 보내면 네트워크 내의 모든 디바이스에게 메시지가 전달된다
+
+## 포트(Port)
+: Application Layer와 Transport Layer 사이의 통로  
+
+- IP가 할당된 컴퓨터는 수천 개의 포트를 사요알 수 있다(1~65535까지의 숫자로 구분.)
+- Port의 구조 : | source | destination |  
+(각각 포트의 시작점과 도착점, 1 ~ 1023은 이미 주인이 정해져있다.)
+
+## 인터넷
+: IP 기반의 네트워크
+- 단순히 표준 프로토콜로 서로 대화하도록 약속된 컴퓨터들의 매우 큰 집합.
+
+## 네트워크 주소 변환(Network Address Translation, = NAT)
+- 공유기를 통해 로컬 IP가된 IP가 밖으로 나갈 때, public IP로 변환해주는 친구
+
+## FireWalls 
+: 패킷에 대한 검사 실행(방화벽)
+- 로컬 네트워크 안의 호스트가 외부 세상으로 직접 연결하는 것을 금지
+
+## Proxy Server 
+- 내부와 외부 사이의 중계자 역할
+- 로컬 네트워크 안의 호스트 -> Proxy Server로 요청 -> Proxy Server가 해당 웹 접근
+
+## The Client/Server Model
+- server : port를 열어 두고, 요청을 대기
+  - client가 HTTP를 요청한다면, port 80으로 이동
+  - Server가 이 요청을 받을 지, 안 받을 지 결정
+
+## IETF RFCs
+: 인터넷 표준 등을 정리해둔 문서형 웹
+- [RFC(Request for Comments)](../RFC.md)
+
+
+
+
+
+
+
+
+
